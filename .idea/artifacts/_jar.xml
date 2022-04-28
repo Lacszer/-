@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="卡其脱离太:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="卡其脱离太.jar">
+      <element id="module-output" name="卡其脱离太" />
+      <element id="module-source" name="卡其脱离太" />
+    </root>
+  </artifact>
+</component>
